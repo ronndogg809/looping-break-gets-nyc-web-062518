@@ -3,7 +3,6 @@ def levitation_quiz
 loop do
   puts "What is the spell that enacts levitation?"
 #what is going to be asked
-   # get.chomp doesnt work in learn so commenting it out
   answer = gets.chomp
 # will continue to push out above statement
   break if answer == "Wingardium Leviosa"
