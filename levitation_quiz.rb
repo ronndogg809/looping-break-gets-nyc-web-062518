@@ -9,7 +9,6 @@ loop do
   break if answer == "Wingardium Leviosa"
 #unless answer equals above ^^ then it would break the line
 end
-end
 
 puts "You passed the quiz!"
 
